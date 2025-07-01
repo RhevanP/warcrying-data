@@ -1,0 +1,30 @@
+[
+    {
+        "update_id": "20250701",
+        "update_name": "First Test",
+        "update_date": "20250701",
+        "update_description":"This is just a test, ignore me!",
+        "toUpdate":[
+            "all"
+        ]
+    },
+    {
+        "update_id": "20250701.02",
+        "update_name": "Second Test",
+        "update_date": "20250701",
+        "update_description":"This is just another test, ignore me!",
+        "toUpdate":[
+            "https://raw.githubusercontent.com/RhevanP/warcrying-data/refs/heads/main/divine_blessing.json"
+        ]
+    },
+    {
+        "update_id": "20250701.03",
+        "update_name": "Third Test",
+        "update_date": "20250701",
+        "update_description":"This is just again another test, ignore me!",
+        "toUpdate":[
+            "https://raw.githubusercontent.com/RhevanP/warcrying-data/refs/heads/main/divine_blessing.json",
+            "https://raw.githubusercontent.com/RhevanP/warcrying-data/refs/heads/main/where_to_find_models.json"
+        ]
+    }
+]

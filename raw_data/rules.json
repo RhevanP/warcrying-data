@@ -1,0 +1,11 @@
+[
+    {
+        "rule_id":0,
+        "rule_name":"Test Rule Name",
+        "rule_summary":"This is a test rule, don't look too much into it mate",
+        "tag_list":[
+            "Test",
+            "Activation"
+        ]
+    }
+]
