@@ -5,7 +5,7 @@
     "elite_points": 25,
     "db_name": "Swiftness",
     "db_description": "Add 1 to the Move characteristic",
-    "db_bonus": "1",
+    "db_bonus": 1,
     "db_target_stat": "movement"
   },
   {
@@ -14,7 +14,7 @@
     "elite_points": 20,
     "db_name": "Resilience",
     "db_description": "Add 1 to the Toughness characteristic",
-    "db_bonus": "1",
+    "db_bonus": 1,
     "db_target_stat": "toughness"
   },
   {
@@ -23,7 +23,7 @@
     "elite_points": 15,
     "db_name": "Fortitude",
     "db_description": "Add 4 to the Wounds charateristic",
-    "db_bonus": "4",
+    "db_bonus": 4,
     "db_target_stat": "wounds"
   },
   {
@@ -32,7 +32,7 @@
     "elite_points": 30,
     "db_name": "Ferocity",
     "db_description": "Add 1 to the Attack characteristic of one of this fighter's melee weapon",
-    "db_bonus": "1",
+    "db_bonus": 1,
     "db_target_stat": "weapon"
   },
   {
@@ -41,7 +41,7 @@
     "elite_points": 20,
     "db_name": "Might",
     "db_description": "Add 1 to the Strength characteristic of one of this fighter's weapon",
-    "db_bonus": "1",
+    "db_bonus": 1,
     "db_target_stat": "weapon"
   },
   {
@@ -50,7 +50,7 @@
     "elite_points": 30,
     "db_name": "Brutality",
     "db_description": "Add 1 to the Damage characteristic of one of this fighter's melee weapon",
-    "db_bonus": "1",
+    "db_bonus": 1,
     "db_target_stat": "weapon"
   },
   {
@@ -59,7 +59,7 @@
     "elite_points": 10,
     "db_name": "Heroism",
     "db_description": "Can use the 'Inspiring Presence' ability as if the fighter had the Hero Runemark",
-    "db_bonus": "0",
+    "db_bonus": 0,
     "db_target_stat": "ability"
   },
   {
@@ -68,7 +68,7 @@
     "elite_points": 10,
     "db_name": "Savagery",
     "db_description": "Add 1 to the Critical characteristic of one of this fighter's melee weapon",
-    "db_bonus": "1",
+    "db_bonus": 1,
     "db_target_stat": "weapon"
   },
   {
@@ -77,7 +77,7 @@
     "elite_points": 30,
     "db_name": "Spite",
     "db_description": "Can make up to one free reaction per battle round",
-    "db_bonus": "0",
+    "db_bonus": 0,
     "db_target_stat": "ability"
   },
   {
@@ -86,7 +86,7 @@
     "elite_points": 40,
     "db_name": "Destiny",
     "db_description": "Begin the battle with one saved wild dice",
-    "db_bonus": "0",
+    "db_bonus": 0,
     "db_target_stat": "ability"
   }
 ]
