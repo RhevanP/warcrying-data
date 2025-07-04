@@ -17,7 +17,7 @@
         ]
     },
     {
-        "monster_table_id": "0",
+        "monster_table_id": "1",
         "fighter_id": "15bedde9",
         "wounds_taken": 20,
         "fighter_move": 5,
@@ -33,7 +33,7 @@
             }
         ]
     },{
-        "monster_table_id": "0",
+        "monster_table_id": "2",
         "fighter_id": "15bedde9",
         "wounds_taken": 30,
         "fighter_move": 4,
@@ -50,7 +50,7 @@
         ]
     },
     {
-        "monster_table_id": "0",
+        "monster_table_id": "3",
         "fighter_id": "15bedde9",
         "wounds_taken": 40,
         "fighter_move": 3,
@@ -67,7 +67,7 @@
         ]
     },
     {
-        "monster_table_id": "0",
+        "monster_table_id": "4",
         "fighter_id": "15bedde9",
         "wounds_taken": 44,
         "fighter_move": 2,
