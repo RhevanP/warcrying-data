@@ -29,5 +29,14 @@
             "update - I'm gonna break you - right now",
             "this is some jiberish"
         ]
+    },
+    {
+        "update_id": "20250730.01",
+        "update_name": "Update Test Vanilla",
+        "update_date": "20250730",
+        "update_description":"Checking if the Vanilla Update works",
+        "toUpdate":[
+            "Nothing really this time."
+        ]
     }
 ]
