@@ -23,10 +23,10 @@
         "update_date": "20250701",
         "update_description":"This is just again another test, ignore me!",
         "toUpdate":[
-            "https://raw.githubusercontent.com/RhevanP/warcrying-data/refs/heads/main/divine_blessing.json",
-            "https://raw.githubusercontent.com/RhevanP/warcrying-data/refs/heads/main/where_to_find_models.json",
-            "update - order - stormcast_eternals_ruination_chamber",
-            "update - I'm gonna break you - right now",
+            "divine_blessings",
+            "where_to_find_models",
+            "order - stormcast_eternals_ruination_chamber",
+            "I'm gonna break you - right now",
             "this is some jiberish"
         ]
     },
@@ -37,6 +37,15 @@
         "update_description":"Checking if the Vanilla Update works",
         "toUpdate":[
             "Nothing really this time."
+        ]
+    },
+    {
+        "update_id": "20250730.02",
+        "update_name": "Update Test Rules",
+        "update_date": "20250730",
+        "update_description":"Check Rules Update",
+        "toUpdate":[
+            "rules"
         ]
     }
 ]
