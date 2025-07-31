@@ -25,7 +25,7 @@
         "toUpdate":[
             "divine_blessings",
             "where_to_find_models",
-            "order - stormcast_eternals_ruination_chamber",
+            "Update Faction - order - stormcast_eternals_ruination_chamber",
             "I'm gonna break you - right now",
             "this is some jiberish"
         ]
@@ -45,7 +45,18 @@
         "update_date": "20250730",
         "update_description":"Check Rules Update",
         "toUpdate":[
-            "rules"
+            "rules",
+            "Update Faction - order - stormcast_eternals_ruination_chamber"
+        ]
+    },
+    {
+        "update_id": "20250730.02",
+        "update_name": "Update Test Rules",
+        "update_date": "20250730",
+        "update_description":"Check Rules Update",
+        "toUpdate":[
+            "rules",
+            "Update Faction - order - stormcast_eternals_ruination_chamber"
         ]
     }
 ]
