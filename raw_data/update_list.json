@@ -58,5 +58,14 @@
             "rules",
             "Update Faction - order - stormcast_eternals_ruination_chamber"
         ]
+    },
+    {
+        "update_id": "20250730.04",
+        "update_name": "Update Test Rules",
+        "update_date": "20250730",
+        "update_description":"Check Rules Update",
+        "toUpdate":[
+            "Update Faction - order - stormcast_eternals_ruination_chamber"
+        ]
     }
 ]
