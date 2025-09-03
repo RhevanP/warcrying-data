@@ -381,7 +381,7 @@
         "where_id": "55",
         "_id": "55",
         "name": "Lord-Imperatant",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -409,7 +409,7 @@
         "where_id": "59",
         "_id": "59",
         "name": "Knight-Arcanum",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -514,63 +514,63 @@
         "where_id": "74",
         "_id": "74",
         "name": "Magore Redhand",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "75",
         "_id": "75",
         "name": "Riptooth",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "76",
         "_id": "76",
         "name": "Zharkus the Bloodsighted",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "77",
         "_id": "77",
         "name": "Ghartok Flayskull",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "78",
         "_id": "78",
         "name": "Garrek Gorebeard",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "79",
         "_id": "79",
         "name": "Blooded Saek",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "80",
         "_id": "80",
         "name": "Karsus the Chained",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "81",
         "_id": "81",
         "name": "Targor",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "82",
         "_id": "82",
         "name": "Arnulf",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -1578,7 +1578,7 @@
         "where_id": "226",
         "_id": "226",
         "name": "Battlesmith",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -1662,7 +1662,7 @@
         "where_id": "238",
         "_id": "238",
         "name": "Fatemaster",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -1816,28 +1816,28 @@
         "where_id": "260",
         "_id": "260",
         "name": "Fjul-Grmnir",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "261",
         "_id": "261",
         "name": "Tefk Flamebearer",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "262",
         "_id": "262",
         "name": "Mad Maegrim",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "263",
         "_id": "263",
         "name": "Vol Orrukbane",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -1900,42 +1900,42 @@
         "where_id": "272",
         "_id": "272",
         "name": "Vortemis the All-Seeing ",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "273",
         "_id": "273",
         "name": "K'Charik",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "274",
         "_id": "274",
         "name": "Narvia",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "275",
         "_id": "275",
         "name": "Turosh",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "276",
         "_id": "276",
         "name": "Eyes of the Nine Blue Horror",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "277",
         "_id": "277",
         "name": "Eyes of the Nine Brimstone Horrors",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -2285,28 +2285,28 @@
         "where_id": "327",
         "_id": "327",
         "name": "Vasillac the Gifted ",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "328",
         "_id": "328",
         "name": "Slakeslash",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "329",
         "_id": "329",
         "name": "Hadzu",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "330",
         "_id": "330",
         "name": "Glissete",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -2355,7 +2355,7 @@
         "where_id": "337",
         "_id": "337",
         "name": "Isharann Soulscryer",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -2677,35 +2677,35 @@
         "where_id": "383",
         "_id": "383",
         "name": "Bjorgen Thundrik",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "384",
         "_id": "384",
         "name": "Khazgan Drakkskewer",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "385",
         "_id": "385",
         "name": "Dead-Eye Lund",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "386",
         "_id": "386",
         "name": "Enrik Ironhail",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "387",
         "_id": "387",
         "name": "Garodd Alensen",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -2859,28 +2859,28 @@
         "where_id": "409",
         "_id": "409",
         "name": "Myari Lightcaller",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "410",
         "_id": "410",
         "name": "Bahannar",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "411",
         "_id": "411",
         "name": "Ailenn The Mind's Edge",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "412",
         "_id": "412",
         "name": "Senaela",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -3090,14 +3090,14 @@
         "where_id": "442",
         "_id": "442",
         "name": "Saurus Knight with Celestite Warspear",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "443",
         "_id": "443",
         "name": "Saurus Knight with Celestite Blade",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -3272,14 +3272,14 @@
         "where_id": "468",
         "_id": "468",
         "name": "Lord-Arcanum on Celestial Dracoline",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "469",
         "_id": "469",
         "name": "Lord-Arcanum on Gryph-Charger",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -3321,7 +3321,7 @@
         "where_id": "475",
         "_id": "475",
         "name": "Knight-Incantor",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -3426,21 +3426,21 @@
         "where_id": "490",
         "_id": "490",
         "name": "Averon Stormsire",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "491",
         "_id": "491",
         "name": "Ammis Dawnguard",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "492",
         "_id": "492",
         "name": "Rastus the Charmed",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -3475,7 +3475,7 @@
         "where_id": "497",
         "_id": "497",
         "name": "Knight-Azyros",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -3559,21 +3559,21 @@
         "where_id": "509",
         "_id": "509",
         "name": "Sanson Farstrider",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "510",
         "_id": "510",
         "name": "Almeric Eagle-Eye",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "511",
         "_id": "511",
         "name": "Elias SwiftBlade",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -3867,21 +3867,21 @@
         "where_id": "553",
         "_id": "553",
         "name": "Severin Steelheart",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "554",
         "_id": "554",
         "name": "Obryn the Bold",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "555",
         "_id": "555",
         "name": "Angharad Brightshield",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -4189,14 +4189,14 @@
         "where_id": "599",
         "_id": "599",
         "name": "Fecula Flyblown",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "600",
         "_id": "600",
         "name": "Ghulgoch the Butcher",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -4378,7 +4378,7 @@
         "where_id": "626",
         "_id": "626",
         "name": "Grey Seer",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -4588,70 +4588,70 @@
         "where_id": "656",
         "_id": "656",
         "name": "Skritch Spiteclaw",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "657",
         "_id": "657",
         "name": "Krrk the Almost-Trusted",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "658",
         "_id": "658",
         "name": "Lurking Skaven",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "659",
         "_id": "659",
         "name": "Hungering Skaven",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "660",
         "_id": "660",
         "name": "Festering Skaven",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "661",
         "_id": "661",
         "name": "Slynk Skittershank",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "662",
         "_id": "662",
         "name": "Snyp Padpaw",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "663",
         "_id": "663",
         "name": "Kreep Kinwhisper",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "664",
         "_id": "664",
         "name": "Skulck",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "665",
         "_id": "665",
         "name": "Krowch't",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -5071,14 +5071,14 @@
         "where_id": "725",
         "_id": "725",
         "name": "Razorgor",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "726",
         "_id": "726",
         "name": "Great Bray Shaman",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -5260,42 +5260,42 @@
         "where_id": "752",
         "_id": "752",
         "name": "Grashrak Fellhoof",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "753",
         "_id": "753",
         "name": "Draknar",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "754",
         "_id": "754",
         "name": "Krosh 'The Sneak'",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "755",
         "_id": "755",
         "name": "Murghoth Half-Horn",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "756",
         "_id": "756",
         "name": "Ushkor",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "757",
         "_id": "757",
         "name": "Gnarl",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -5491,70 +5491,70 @@
         "where_id": "785",
         "_id": "785",
         "name": "Sarrakkar Blackwing",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "786",
         "_id": "786",
         "name": "Gorl Spinehammer",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "787",
         "_id": "787",
         "name": "Crimson Kheira",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "788",
         "_id": "788",
         "name": "Lupan Longcut",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "789",
         "_id": "789",
         "name": "Theddra Skull-Scryer",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "790",
         "_id": "790",
         "name": "Ollo",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "791",
         "_id": "791",
         "name": "Jagathra",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "792",
         "_id": "792",
         "name": "Grawl",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "793",
         "_id": "793",
         "name": "Grundann Blood-Eye",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "794",
         "_id": "794",
         "name": "Shond Head-Claimer",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -5715,63 +5715,63 @@
         "where_id": "817",
         "_id": "817",
         "name": "Ylthari",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "818",
         "_id": "818",
         "name": "Gallaghann of the Glade",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "819",
         "_id": "819",
         "name": "Skhathael",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "820",
         "_id": "820",
         "name": "Ahnslaine, Revenant Archer",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "821",
         "_id": "821",
         "name": "Skaeth the Huntsman",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "822",
         "_id": "822",
         "name": "Karthaen",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "823",
         "_id": "823",
         "name": "Althaen",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "824",
         "_id": "824",
         "name": "Sheoch",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "825",
         "_id": "825",
         "name": "Lighaen",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -6016,7 +6016,7 @@
         "where_id": "860",
         "_id": "860",
         "name": "Savage Big Stabbas",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -6038,7 +6038,7 @@
         "_id": "863",
         "name": "Savage Orruk Morboy Bone Totem Bearer",
         "content_of_box": "Option in 20 Savage Orruk Morboys box",
-        "wayland": null
+        "wayland": "x"
     },
     {
         "where_id": "864",
@@ -6296,126 +6296,126 @@
         "where_id": "900",
         "_id": "900",
         "name": "Zarbag",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "901",
         "_id": "901",
         "name": "Zarbag's Gitz Squig",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "902",
         "_id": "902",
         "name": "Snirk Sourtongue",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "903",
         "_id": "903",
         "name": "Drizgit Da Squig Herder",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "904",
         "_id": "904",
         "name": "Zarbag's Gitz Shoota",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "905",
         "_id": "905",
         "name": "Prog Da Netter",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "906",
         "_id": "906",
         "name": "Mollog The Mighty",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "907",
         "_id": "907",
         "name": "Bat Squig",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "908",
         "_id": "908",
         "name": "Rippa Narkbad",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "909",
         "_id": "909",
         "name": "Mean-Eye",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "910",
         "_id": "910",
         "name": "Stabbit",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "911",
         "_id": "911",
         "name": "Clawback",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "912",
         "_id": "912",
         "name": "Cave Howler",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "913",
         "_id": "913",
         "name": "Gorger with Great Club",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "914",
         "_id": "914",
         "name": "Gorger",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "915",
         "_id": "915",
         "name": "Gorger with Club",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "916",
         "_id": "916",
         "name": "Gore-Grunta Boss with Pig-Iron Choppa",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "917",
         "_id": "917",
         "name": "Gore-Grunta Boss with Jagged Gore-Hacka",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -6520,49 +6520,49 @@
         "where_id": "932",
         "_id": "932",
         "name": "Morgok",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "933",
         "_id": "933",
         "name": "Ardskull",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "934",
         "_id": "934",
         "name": "Thugg",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "935",
         "_id": "935",
         "name": "Gurzag Ironskull",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "936",
         "_id": "936",
         "name": "Bonekutta",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "937",
         "_id": "937",
         "name": "Hakka",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "938",
         "_id": "938",
         "name": "Basha",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -6863,7 +6863,7 @@
         "where_id": "981",
         "_id": "981",
         "name": "Gorger",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -6898,35 +6898,35 @@
         "where_id": "986",
         "_id": "986",
         "name": "Hrothgorn Mantrapper",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "987",
         "_id": "987",
         "name": "Thrafnir",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "988",
         "_id": "988",
         "name": "Luggit and Thwak",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "989",
         "_id": "989",
         "name": "Bushwakka",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "990",
         "_id": "990",
         "name": "Quiv",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -7094,7 +7094,7 @@
         "where_id": "1014",
         "_id": "1014",
         "name": "Abhorrant Ghoul King",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -7773,35 +7773,35 @@
         "where_id": "1111",
         "_id": "1111",
         "name": "King Morlak Velmorn",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "1112",
         "_id": "1112",
         "name": "Sir Jedran Falseborn",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "1113",
         "_id": "1113",
         "name": "Thain Fourth-And-Last",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "1114",
         "_id": "1114",
         "name": "Marshal Faulk Velmorn",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "1115",
         "_id": "1115",
         "name": "Helmwar the Hewer",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -7885,42 +7885,42 @@
         "where_id": "1127",
         "_id": "1127",
         "name": "The Sepulchral Warden",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "1128",
         "_id": "1128",
         "name": "The Prince of Dust",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "1129",
         "_id": "1129",
         "name": "The Champion",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "1130",
         "_id": "1130",
         "name": "Petitioner with Sword and Shield",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "1131",
         "_id": "1131",
         "name": "The Harvester",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
         "where_id": "1132",
         "_id": "1132",
         "name": "Petitioner with Sword",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -8585,7 +8585,7 @@
         "where_id": "1227",
         "_id": "1227",
         "name": "Chaos Chosen",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "https://affiliates.waylandgames.co.uk/idevaffiliate.php?id=1323&url=4508"
     },
     {
@@ -8599,7 +8599,7 @@
         "where_id": "1229",
         "_id": "1229",
         "name": "Knight-Azyros",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "x"
     },
     {
@@ -8816,14 +8816,14 @@
         "where_id": "1260",
         "_id": "1260",
         "name": "Clawlord on Gnaw-Beast",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "https://affiliates.waylandgames.co.uk/idevaffiliate.php?id=1323&url=4509"
     },
     {
         "where_id": "1261",
         "_id": "1261",
         "name": "Warlock Engineer with Warplock Jezzail",
-        "content_of_box": null,
+        "content_of_box": "x",
         "wayland": "https://affiliates.waylandgames.co.uk/idevaffiliate.php?id=1323&url=4509"
     },
     {
