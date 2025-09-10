@@ -1,31 +1,182 @@
 [
     {
         "rule_id":0,
-        "rule_name":"Test Rule Name",
-        "rule_summary":"This is a test rule, don't look too much into it mate",
+        "rule_name":"Initiative",
+        "rule_summary":"The person with the highest number of singles AFTER the wild dice have been distributed is the person with the initiative",
         "tag_list":[
-            "Test",
-            "Activation"
+            "Initiative",
+            "Turn Order"
         ]
     },
     {
         "rule_id":1,
-        "rule_name":"Test Rule Name2",
-        "rule_summary":"This is a test rule, don't look too much into it mate",
+        "rule_name":"Start of Turn",
+        "rule_summary":"Each player rolls 6D6, then group them by the same number (all 1’s together for example) into singles, doubles, triples, quadruples. The player with the highest singles has the initiative and chooses what to do with their wild dice first.",
         "tag_list":[
-            "Test",
-            "Activation",
-            "Double"
+            "Initiative",
+            "Turn Order"
         ]
     },
     {
         "rule_id":2,
-        "rule_name":"Test Rule Name3",
-        "rule_summary":"This is a test rule, don't look too much into it mate",
-        "tag_list":[
-            "Test",
-            "Activation",
-            "Triple"
-        ]
+        "rule_name":"Wild Dice",
+        "rule_summary":"You receive 1 wild dice at the start of each round. They can act as any number you wish at the start of the round, before any fighters have been activated, but you cannot use 2 wild dice as the same number.",
+        "tag_list":["Wild Dice", "Turn Order"]
+    },
+    {
+        "rule_id":3,
+        "rule_name":"Setting Up Game",
+        "rule_summary":"1. Setup the terrain/n2.Define where each deployment group (Hammer/Dagger/Shield) are going./n3. Roll off to decide who deploys first./n4. Roll off to decide which colour of deployment you'll be./n5. Deploy Dagger, then Shield then Hammer.",
+        "tag_list":["Set Up", "Pre-Game"]
+    },
+    {
+        "rule_id":4,
+        "rule_name":"Falling",
+        "rule_summary":"A fighter will fall automatically when:/n1) The centre of the base of the fighter is not on a platform/n2) The fighter is still climbing when finishing a move action/n3) If it is attacked while within half an inch of an edge, after the attack, roll a D6. On a 1, the fighter falls. The opponent can then place the fighter anywhere not obstructed within 2 inches from where it was./nThe fighter has to take a falling test if the fall is more than 2 inches",
+        "tag_list":["Falling"]
+    },
+    {
+        "rule_id": 5,
+        "rule_name":"Impact Damage / Falling Test",
+        "rule_summary":"If a fighter falls more than 2 inches or needs to take impact damage, roll a d6. On a 1, that fighter takes 3 damages. On a 2-3, that fighter takes 1 damage. On a 4+ nothing happens.",
+        "tag_list":["Falling", "Impact Damage", "Falling Test"]
+    },
+    {
+        "rule_id": 6,
+        "rule_name":"Objective Control",
+        "rule_summary":"A player gains control of an objective if, at the end of the battle round, they have more friendly fighters within 3 inches than their opponent. Once a player controls an objective, it stays under their control until another player gains control of it",
+        "tag_list":["Objective", "Control"]
+    },
+    {
+        "rule_id": 7,
+        "rule_name":"Picking up treasures",
+        "rule_summary":"You can pick up treasure with a fighter when it  moves within 1 inch of the treasure during a move action./nFighters with Monster or Beast runemark cannot pick up treasures./nWhile carrying the treasure, a fighter gets -2 to their move stat (minimum of 3) and cannot fly or disengage.",
+        "tag_list":["Objective", "Treasures"]
+    },
+    {
+        "rule_id": 8,
+        "rule_name":"Dropping treasures",
+        "rule_summary":"A fighter drops treasure when:/n1) The fighter carrying the treasure dies/n2) The fighter carrying the treasure spends an action to drop it/nIn both cases, the controlling player of said fighter choses a place 1 inch vertically from it, visible to the fighter & on the same level or lower to place the token",
+        "tag_list":["Objective", "Treasures"]
+    },
+    {
+        "rule_id": 9,
+        "rule_name":"Fighters abilities",
+        "rule_summary":"A fighter can use 1 ability per activation, but it does not use an action. A fighter has symbols (named runemarks) on its card. Depending on which one it has, can use different abilities using the doubles, triples & quadruples you got during the initiative phase. To use a fighter’s ability, spend the correct combination of dice and follow the effect shown on its card.",
+        "tag_list":["Ability", "Double", "Triple", "Quadruple"]
+    },
+    {
+        "rule_id": 10,
+        "rule_name":"Attacking",
+        "rule_summary":"The attack sequence is:/n1) A fighter picks a target within range of one of its weapons/n2) Roll a number of dice equal to the attack characteristic of the weapon/n3) For every 6, it is a critical hit (the second number on the damage profile)/nIf the attacker's strength is EQUAL to the toughness of the target, you hit on 4-5 (dealing the first value on the damage profile)/nIf the strength is LOWER than the toughness of the target, you hit on 5/nIf the strength is HIGHER than the toughness of the target, you hit on 3-5",
+        "tag_list":["Attacking", "Damage", "Critical", "Hit"]
+    },
+    {
+        "rule_id": 11,
+        "rule_name":"Missile attack actions",
+        "rule_summary":"A missile attack action is when a fighter attacks with a weapon at a range higher than 3 inches./nYou cannot target units in engagement range with this attack action.",
+        "tag_list":["Attacking", "Damage", "Missile", "Range"]
+    },
+    {
+        "rule_id": 12,
+        "rule_name":"Melee attack actions",
+        "rule_summary":"A melee attack action is when a fighter attacks with a weapon at a range lower or equal to 3 inches.",
+        "tag_list":["Attacking", "Damage", "Melee"]
+    },
+    {
+        "rule_id": 13,
+        "rule_name":"Engagement Range",
+        "rule_summary":"A fighter is in engagement range when it's within 1 inch from an enemy fighter./nIn which case, the fighter cannot use a move action but only a disengage action.",
+        "tag_list":["Engagement", "Disengage", "Move"]
+    },
+    {
+        "rule_id": 14,
+        "rule_name":"Move Action",
+        "rule_summary":"A fighter can move up to the number of inches shown on its profile. This distance can be split so that the fighter can move around obstacles and include climbing or jumping. Fighters cannot move through other fighters unless they are flying. Flying fighters also ignore vertical distance, so do not need to climb terrain to reach the top of it.",
+        "tag_list":["Move"]
+    },
+    {
+        "rule_id": 15,
+        "rule_name":"Climbing",
+        "rule_summary":"Fighters without the ‘mount’ runemark can climb obstacles. To climb an obstacle the fighter's base needs to be touching a part of terrain. Then, measure the distance and do a vertical move action. If the movement does not finish on a platform, the fighter falls.",
+        "tag_list":["Climb", "Move", "Fall"]
+    },
+    {
+        "rule_id": 16,
+        "rule_name":"Activation",
+        "rule_summary":"Fighters have 1 activation each battle round. It is only once all fighters have activated that the battle round ends. Each activation has 2 actions that can be taken. These are: disengage, attack, move, wait./nEach fighter has also the opportunity to use 1 ability every activation. Those abilities are available depending on your [double], [triple], [quadruple] you rolled at the start of the round.",
+        "tag_list":["Action", "Move", "Activation"]
+    },
+    {
+        "rule_id": 17,
+        "rule_name":"Monster activation",
+        "rule_summary":"Monsters have 3 activations each battle round. It is only once all fighters have activated that the battle round ends. Each activation has 1 action. Possible actions are: disengage, attack, move, wait./nEach monster has also the opportunity to use 1 ability every activation. Those abilities are available depending on your [double], [triple], [quadruple] you rolled at the start of the round.",
+        "tag_list":["Action", "Move", "Activation", "Monster"]
+    },
+    {
+        "rule_id": 18,
+        "rule_name":"Waiting",
+        "rule_summary":"Waiting spends one action to end a fighter’s activation early, but the fighter can be activated again in the same round to use its remaining action./nIf the fighter has only 1 action left when using this action, its activation passes and cannot activate again this round.",
+        "tag_list":["Action", "Wait"]
+    },
+    {
+        "rule_id": 19,
+        "rule_name":"Jump",
+        "rule_summary":"A fighter is said to jump when it moves between platforms separated by less or equal to its move range. It has to finish its move action on a platform or fall exactly where it is./nIf a fighter movement while jumping ends in the void, he stops where he is and is placed on the battlefield floor. If the fall was more than 2 inches, he needs to make a falling test.",
+        "tag_list":["Action", "Jump", "Move"]
+    },
+    {
+        "rule_id": 20,
+        "rule_name":"Universal reactions",
+        "rule_summary":"Every fighter has these reactions:/n1) Counter: When an enemy fighter targets this fighter with a melee attack, you can react. If they are 2 or more failed hits, the enemy fighter takes 1 damage. If they rolle 1 or more 1s, they take 2./n2) Strike Them Down: When an enemy fighter disengages, you can react. Roll a D6, on a 4+ inflicts D6 damages to that enemy fighter./n3) Take Cover: When an enemy fighter attacks you with a missile action, you can react. For every critical hit you receive, roll a dice. On a 4+ that critical becomes a normal hit instead.",
+        "tag_list":["Reaction", "Universal"]
+    },
+    {
+        "rule_id": 21,
+        "rule_name":"Universal abilities",
+        "rule_summary":"Every fighter has access to these universal abilities:/n[Double]Rush: Add 1 to the move characteristic of this fighter until the end of their activation./n[Double]Onslaught: Add 1 to the attack characteristic of melee attack actions made by this fighter until the end of their activation/n[Triple]Respite: Cannot be used if there are any enemy fighters within 1 inch. Remove a number of damage points equal to the value of this ability/n[Triple - Hero]Inspiring Presence: Pick a friendly fighter within 6 inches of this fighter that has not activated yet. You can activate that fighter immediately after this fighter activation ends./n[Quadruple]Rampage: Made a bonus move action up to the value of the ability. Then you CAN make a bonus attack action.",
+        "tag_list":["Abilities", "Universal"]
+    },
+    {
+        "rule_id": 22,
+        "rule_name":"Summary of a turn",
+        "rule_summary":"Player roll their 6 dices & group the results in occurences (group the 1s together, the 2s, etc...)/nThe player with the most singles has the initiative and decides what to do with their wild dices./nThen the other player does it./nThe player with the most singles after that has the initative and is the first one to activate a fighter./nFighters have 2 actions and can be activated once per round(except monster, which have 1 action and can be activated 3 times)./nFigthers can move, attack, disangage & use their abilities (only one ability per activation)./nPlayers alternative activating a fighter until both have no more fighters to activate. The round is over./nRepeat this until all the rounds in the game are played!",
+        "tag_list":["Turn Order"]
+    },
+    {
+        "rule_id": 23,
+        "rule_name":"Runemarks",
+        "rule_summary":"Each fighter has runemarks./nThose runemarks impact which abilities they can use and which special rules they are subject to./nFor example: Flying runemark allows the miniature to ignore vertical distance while moving./nAnother example: The hero Runemark allows the fighter to be taken in a warband from the same alliance as an ally.",
+        "tag_list":["Runemarks", "Abilities"]
+    },
+    {
+        "rule_id": 24,
+        "rule_name":"D3 D6",
+        "rule_summary":"When some rules mentions 'Roll a D6', it means roll a die with 6 faces and take the result./nWhen some rule mentions 'Roll a D3', it means roll a die with 6 faces and take half the result, rounded (1-2 = 1, 3-4 =2, 5-6 = 3)",
+        "tag_list":["Dice Roll", "D6", "D3"]
+    },
+    {
+        "rule_id": 25,
+        "rule_name":"Platform",
+        "rule_summary":"A platform is defined as a space above the battlefield floor at least 1x1 inch. Any smaller space is NOT a platform",
+        "tag_list":["Platform"]
+    },
+    {
+        "rule_id": 26,
+        "rule_name":"Visibility",
+        "rule_summary":"A fighter is visible to another when you can draw a straight line between the 2 fighters without passing through a terrain feature or another fighter. The bases don't count. Look behind the head of your fighter to confirm if the other is visible",
+        "tag_list":["Vsibility", "Line of Sight", "LoS"]
+    },
+    {
+        "rule_id": 27,
+        "rule_name":"Cover",
+        "rule_summary":"A fighter is in cover when he's target of an attack AND/n1) His body is partially covered by a terrain feature /n2) He's within 1/2 inch of such terrain feature or is 2 inches above the attacking fighter./n/nIf a fighter is in cover, add 1 to their toughness characteristic for the attack action ONLY",
+        "tag_list":[]
+    },
+    {
+        "rule_id": 28,
+        "rule_name":"Reaction",
+        "rule_summary":"A fighter can react by sacrificing one of his action. There are 3 universal reactions all fighters can use and specific ones related to the fighter's faction. Check their activation's condition for more details",
+        "tag_list":["Reaction", "Action"]
     }
 ]
