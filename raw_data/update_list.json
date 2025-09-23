@@ -67,5 +67,14 @@
         "toUpdate":[
             "Update Faction - order - stormcast_eternals_ruination_chamber"
         ]
+    },
+    {
+        "update_id": "20250923.01",
+        "update_name": "Updating rules in live environment",
+        "update_date": "20250923",
+        "update_description":"Checking if the updating rules work in live environment",
+        "toUpdate":[
+            "Update Faction - chaos - blades_of_khorne_daemons"
+        ]
     }
 ]
